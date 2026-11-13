@@ -1,0 +1,25 @@
+# Zig
+zig-out/
+.zig-cache/
+zig-cache/
+.zig-global-cache/
+
+# C build artifacts
+*.o
+*.obj
+*.d
+*.su
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exp
+*.ilk
+*.pdb
+*.out
+*.app
+*.exe
+*.gch
+*.pch
